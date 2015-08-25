@@ -4,11 +4,11 @@
 Flexible work scheduler for the on-the-go entrepreneur
 
 ## GrindReady.com Live site
-###[GrindReady.com](http://www.grindready.com){:target="_blank"}
+###<a href="http://www.grindready.com" target="_blank">GrindReady.com</a>
 
 ##Team Members
-+ [Julie Kwokstar](www.juliekwok.com){:target="_blank"}
-+ [Bobby Lopez](bobbydigitaldev.com){:target="_blank"}
++ <a href="www.juliekwok.com" target="_blank">Julie Kwokstar</a>
++ <a href="bobbydigitaldev.com" target="_blank">Bobby Lopez</a>
 
 ##Technology Used
 + Ruby on Rails
@@ -22,7 +22,7 @@ Flexible work scheduler for the on-the-go entrepreneur
 + Axure - Prototype/Wireframe
 
 ##Trello Board
-[GrindReady](https://trello.com/b/FKM1U70X/grindready){:target="_blank"}
+### <a href="https://trello.com/b/FKM1U70X/grindready" target="_blank">GrindReady</a>
 
 ##Artifacts for MVP
 ###Wireframes
