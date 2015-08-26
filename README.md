@@ -7,8 +7,8 @@ Flexible work scheduler for the on-the-go entrepreneur
 ###<a href="http://www.grindready.com" target="_blank">GrindReady.com</a>
 
 ##Team Members
-+ <a href="www.juliekwok.com" target="_blank">Julie Kwokstar</a>
-+ <a href="bobbydigitaldev.com" target="_blank">Bobby Lopez</a>
++ <a href="http://www.juliekwok.com" target="_blank">Julie Kwokstar</a>
++ <a href="http://www.bobbydigitaldev.com" target="_blank">Bobby Lopez</a>
 
 ##Technology Used
 + Ruby on Rails
