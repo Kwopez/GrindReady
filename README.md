@@ -38,6 +38,15 @@ Flexible work scheduler for the on-the-go entrepreneur
 | 2 | Knope Moore | f |
 | 3 | Rachel Plaid | t |
 
+#### Roles
+| id | name |
+|----|----|
+| 1 | admin |
+| 2 | manager |
+| 3 | barista |
+| 4 | bit |
+| 5 | bar back |
+
 #### Jobs
 | id | name | location | user_id | clock_in | clock_out | scheduled_in | scheduled_out | 
 |----|----|----|----|----|----|----|----|
